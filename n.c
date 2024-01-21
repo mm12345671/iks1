@@ -3,9 +3,10 @@
 int main()
 {
 
-    int a[7]={5,2,1,6,7,3,4}; // <= A hard coded array
+    int a[8]={5,2,1,6,7,3,4,6}; // <= A hard coded array
 
-    int n=0;
+
+   int n=0;
 
     // Getting the unsorted Tree output. 
     //  sizeof(a)/sizeof(int) - used to get the array length
